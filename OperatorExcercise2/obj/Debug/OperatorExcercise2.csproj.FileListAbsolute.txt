@@ -1,0 +1,7 @@
+E:\repos\OperatorExcercise2\OperatorExcercise2\bin\Debug\OperatorExcercise2.exe.config
+E:\repos\OperatorExcercise2\OperatorExcercise2\bin\Debug\OperatorExcercise2.exe
+E:\repos\OperatorExcercise2\OperatorExcercise2\bin\Debug\OperatorExcercise2.pdb
+E:\repos\OperatorExcercise2\OperatorExcercise2\obj\Debug\OperatorExcercise2.csproj.AssemblyReference.cache
+E:\repos\OperatorExcercise2\OperatorExcercise2\obj\Debug\OperatorExcercise2.csproj.CoreCompileInputs.cache
+E:\repos\OperatorExcercise2\OperatorExcercise2\obj\Debug\OperatorExcercise2.exe
+E:\repos\OperatorExcercise2\OperatorExcercise2\obj\Debug\OperatorExcercise2.pdb
